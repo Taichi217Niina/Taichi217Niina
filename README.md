@@ -5,11 +5,11 @@
 <p><img align="rightr" src="https://github-readme-stats.vercel.app/api?username=Taichi217Niina&show_icons=true&locale=en" alt="hoge" /></p>
 
 ## Programming Languages
-<img align="left" src="https://skillicons.dev/icons?i=html,css,java," /> <br /><br />
+<img align="left" src="https://skillicons.dev/icons?i=html,css,java" /> <br /><br />
 
 ## Frameworks
 <img align="center" src="https://skillicons.dev/icons?i=spring" /> <br /><br />
 
 ## DB and Dev Tools etc
-<img src="https://skillicons.dev/icons?i=postgresql,docker,git,github,eclipse,vscode,linux,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=postgresql,docker,git,github,eclipse,vscode,linux,aws,redis" /> <br /><br />
 
